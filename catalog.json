@@ -1,8 +1,9 @@
 {
     "schema": "1.1",
+    "location": "http://github.com/cadorn/util-os/raw/master/catalog.json",
     "packages": {
         "osx": {
-            "location": "file://./",
+            "location": "http://github.com/cadorn/util-os/zipball/master/",
             "path": "packages/osx"
         }
     }

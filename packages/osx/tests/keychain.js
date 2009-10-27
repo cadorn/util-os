@@ -5,7 +5,7 @@ var UTIL = require("util");
 var KEYCHAIN = require("keychain");
 
 
-exports.testKeychain = function () {
+exports.testGetPassword = function () {
 
     var account = "test-account";
     var item = "test-item"

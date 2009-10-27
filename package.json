@@ -5,7 +5,7 @@
     ],
     "using": {
         "osx": {
-            "catalog": "file://./catalog.json",
+            "catalog": "http://github.com/cadorn/util-os/raw/master/catalog.json",
             "name": "osx"
         }
     }
