@@ -3,7 +3,6 @@ util-os
 
 OS utilities and libraries.
 
-**STATUS:** *Under development*
 
 
 License

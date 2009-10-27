@@ -3,7 +3,19 @@ Mac OS X
 
 Utilities and libraries for Mac OS X.
 
-**STATUS:** *Under development*
+
+Modules
+=======
+
+keychain
+--------
+
+Retrieving a password:
+
+    var KEYCHAIN = require("keychain");
+    var password = KEYCHAIN.getPassword(account, item);
+
+
 
 
 License
