@@ -1,0 +1,12 @@
+{
+    "name": "util-os",
+    "dependencies": [
+        "narwhal"
+    ],
+    "using": {
+        "osx": {
+            "catalog": "file://./catalog.json",
+            "name": "osx"
+        }
+    }
+}
