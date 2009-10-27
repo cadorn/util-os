@@ -1,0 +1,9 @@
+{
+    "schema": "1.1",
+    "packages": {
+        "osx": {
+            "location": "file://./",
+            "path": "packages/osx"
+        }
+    }
+}
